@@ -1,0 +1,6 @@
+Django==2.0
+bpython==0.16
+psycopg2==2.7.4
+requests[socks]
+celery==3.1.25
+redis==2.10.6
